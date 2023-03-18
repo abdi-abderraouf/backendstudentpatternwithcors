@@ -3,7 +3,7 @@ const cors = require('cors')
 const { urlencoded } = require('express')
 const app = express()
 var corsOption = {
-    origin:"https://abdiabderraouf.netlify.app/"
+    origin:"https://abdiabderraouf.netlify.app"
     //origin:"www.myfront.com"
     //origin:["s1","s2","s3"]
 }
